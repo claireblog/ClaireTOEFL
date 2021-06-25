@@ -3,7 +3,7 @@ version: 4.0.0
 # Icarus theme variant, can be "default" or "cyberpunk"
 variant: default
 # Path or URL to the website's logo
-logo: https://claireblog.github.io/ClaireTOEFL/custom_images/logo.png
+logo: https://raw.githubusercontent.com/claireblog/ClaireTOEFL/661578fa66c8ba23dd7b5755175901fc4957924d/themes/hexo-theme-icarus-master/source/img/english_round.svg
 # Page metadata configurations
 head:
     # URL or path to the website's icon
@@ -229,7 +229,7 @@ widgets:
         # Author's current location
         # location: Your location
         # URL or path to the avatar image
-        avatar: https://claireblog.github.io/ClaireTOEFL/custom_images/english-language.svg
+        avatar: https://raw.githubusercontent.com/claireblog/ClaireTOEFL/661578fa66c8ba23dd7b5755175901fc4957924d/themes/hexo-theme-icarus-master/source/img/english-language.svg
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
